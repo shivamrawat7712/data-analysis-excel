@@ -1,2 +1,3 @@
-# data-analysis-excel
-Projects made with the help of excel using data analysis
+# Data-Analysis-excel
+<br>
+Projects made using MS Excel
